@@ -6,6 +6,9 @@ public class Practice1 {
 
         System.out.println("WORK1");
 
+        //SUCCESSFULLY PUSHED PROJECT TO Github
+        //FIRST IntelliJ  AUtomatically created remote repo
+
     }
 
 
